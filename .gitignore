@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# 输出文件
+*.zip
+*.jpeg
+*.jpg
+*.png
+
+# 数据文件（保留配置文件）
+# 注意：不忽略 config.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+_temp*/
+
+# 输出目录
+百度标注数据/
+上传包/
+打包输出/
+results/
